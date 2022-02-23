@@ -29,26 +29,52 @@ dataSet = {'sworn in', 'joe weller', 'cassandra jenkins', 'emma bunton', 'fort m
              'los cadetes de linares', 'young dolph', 'jungle', 'clare bowen', 'megan thee stallion', 'mark tuan', 'elijah blake', 'wild belle', 'tyler farr', 'selah sue', 'my favorite highway', 'nerone', 'pxndx', 'april', 'p-square', 'charly bliss', 'lee roy parnell', 'sfera ebbasta', 'story untold', 'duncan james', 'joseph vincent', 'basta (баста)', 'madds buckley', 'kai', 'lafee', 'jaheim', 'justice', '113', 'glen hansard', 'brook benton', 'rebelution', 'johnny apple', 'tini lin', 'diljit dosanjh', 'little voice cast', 'bloodywood', 'elettra lamborghini', 'cartoon', 'blink-182', 'krissy & ericka', "howlin' wolf", 'ego', 'yemi alade', 'jack savoretti', 'seals & crofts', 'yo trane', 'lucas coly', 'spring awakening cast', 'jake reese', 'ren', 'smilez and southstar', 'velvet empire', 'don gibson', 'lani misalucha', 'ash', 'nawlage', 'marty robbins', 'kate tempest', 'trippie redd', 'kim kardashian', 'band of skulls', 'wes walker', 'the unicorns', 'raiden', 'artists for haiti', 'skunk anansie', 'yeasayer', 'babymetal', 'jon pardi', 'bruno major', 'jonna fraser', 'conor maynard', 'chase bryant', 'wind and fire earth', 'leroy sanchez', 'lightworker', 'tayo sound', 'ms krazie', 'catchingyourclouds', 'air', "blazin' squad", 'zate', 'wicca phase springs eternal', 'semblant', 'fo&o', 'rxseboy', 'cody jinks', 'black flag', 'lusia chebotina (люся чеботина)', 'terry jacks', 'dan talevski', 'betty wright', 'youngjae', 'institute', 'moneybagg yo', 'the technicolors', 'the ghost inside', 'sisqo', 'blossoms', 'ruby fields', 'harlequin', 'jonathan thulin', 'dark new day', 'uriah heep', 'smallpools', 'busta rhymes', 'sentino', 'grinderman', 'barenaked ladies', 'jason derulo', 'saara aalto', 'caught a ghost', 'wiley', 'duelo', 'andy gibb', 'duran duran', 'yotari', 'will.i.am', 'dani and lizzy', 'iamdoechii', 'rent cast', 'bright ones', 'texas in july', 'the longshot', 'radiohead', 'kat graham', 'benash', 'blind guardian', 'laurel', 'backyard babies', 'jbk', 'the hunna', 'good charlotte', 'trixie mattel', 'meau', 'bailey zimmerman', 'avion', 'tungevaag & raaban', 'idle sons', 'electronic', 'reflection eternal', 'ysn flow', 'aj tracey', 'taylor swift', 'jerry cantrell', 'o.a.r. (of a revolution)', 'babyshambles', 'marcus collins', 'ian van dahl', 'hard-fi', 'all shall perish', 'jr jr', "d'banj", 'citizens', 'giorgos sabanis', "keen'v", 'spacehog', 'kesha', 'blaine larsen', 'little simz', 'nat and alex wolff', 'k koke', 'counterfeit.', 'diggy simmons', '13 organisé', 'pat barrett', 'bonnie mckee', 'plan b', 'bebe winans', 'disturbing tha peace', 'the swon brothers', 'amanda seyfried', 'tujamo', 'a lot like birds', 'peyton parrish', 'eddie rabbitt', 'i set my friends on fire', 'everyone you know', 'a rocket to the moon', 'the breather i', 'devilman', 'the statler brothers', 'truwer', 'the rapture', 'lucy angel', 'yuzmv', 'robert delong', 'the scary jokes', 'temperance', 'one night only', 'migz haleco', 'pashanim', 'push play', 'atreyu', 'troy ave', 'little texas', 'kosmonavtov net (космонавтов нет)', 'skyhooks', 'hale', 'the chordettes', 'elliphant', 'gs9', 'b.o.b', 'coez', 'mr. polska', 'aston merrygold', 'poliça', 'giorgia', 'velvet revolver', 'christina grimmie', 'amanda', 'theovertunes', 'dispatch', 'jim croce', 'the partridge family', 'dagames', 'anne-marie', 'holly humberstone', 'tori amos', 'yung nation', 'moguai', 'riot', 'roger waters', 'noisettes', 'the waterboys', 'sebastian yatra', 'slayyyter', 'the church', 'breaking point', 'stellar', 'brenton wood', 'yang da il', 'exo-cbx', 'press play', 'blu detiger', 'rak-su', 'turnover', 'the rose', 'encanto cast', 'james smith', 'nutcase22', 'saypink!', 'brooke valentine', 'jax', 'nmixx', 'sublime', 'dollar signs', 'versaemerge', 'dead kennedys', 'dia', 'kid ink', 'a great big world', 'the runaways', 'charlene', 'apored', 'sabrina carpenter', 'greg puciato', 'tynisha keli', 'barlito', 'jai waetford', 'dpr live', 'amyl and the sniffers', 'cloud cult', 'jason michael carroll', 'gyptian', 'toby lightman', 'rei brown', 'simply red', 'brownstone', 'mlodyskiny', 'ck9c', 'baby aka the #1 stunna', 'cami', 'manila grey', 'boywithuke', 'kacey musgraves', 'shygirl', 'morrissey', 'citizen soldier', 'devendra banhart', 'dying fetus', 'sean garrett', 'fit for an autopsy', 'nav', 'evan giia', 'riz la vie', 'mc kresha', 'demun jones', 'frida', 'stand atlantic', 'electric light orchestra', 'dermot kennedy', 'nothing', 'shealeigh', 'badflower', 'divine', 'mark dohner', 'pat green', 'kasey chambers', 'boybandph', 'ida maria', 'trent tomlinson', 'holding absence', 'sura i̇skəndərli', 'everlife', 'glasperlenspiel', 'jamie grace', 'kygo', 'gryaz (грязь))', 'chinx drugz', 'citizen cope', 'amaia montero', 'trace adkins', 'kranium', 'james tw', 'fromis_9', 'by india (by индия)', 'dvsn', 'lil mama', 'emphatic', 'kobi marimi', 'darin', 'jack river', 'robert earl keen', 'the new basement tapes', 'chvse', 'block buster', 'drew jacobs', 'koffee', 'carmon', 'marty balin', 'young signorino', 'the lemon twigs', 'boy pablo', 'alesana', 'hollyn', 'palisades', 'alex parks', 'jimmy wayne', 'the shins', 'the white tie affair', 'liv', 'memphis may fire', 'stan walker', 'patty griffin', 'alcy', 'still remains', '(sandy) alex g', 'nafe smallz', 'rasa', 'william singe', 'mister v', 'run river north', 'jiggo', 'grave digger', 'nate good', 'tyler carter', 'jessica jarrell', 'l devine', 'will hoge', 'muna', 'warrant', 'william mcdowell', 's-pion', 'sway', 'nails', 'the bangles', 'every avenue', 'balance and composure', 'dying in designer', 'orphaned land', "guns n' roses", 'b2k', 'jenny hval', 'timothy bloom', 'julian perretta', 'euringer', 'big black', 'kevin morby', 'scott helman', 'yumi zouma', 'ryan griffin', 'walker mcguire', 'canbay & wolker', 'ardhito pramono', 'jason castro', 'jade lemac', 'audrey nuna', 'klergy', 'hatik', 'ayron jones', 'moonchild', 'dannii minogue', 'damar jackson', 'bruce hornsby', 'milow', 'enterprise earth', 'kaiser chiefs', 'chris brown', 'deen burbigo', 'melissa manchester', 'jom', 'actor | observer', 'the brand new heavies', 'londynn b', 'gagong rapper', 'kira isabella', 'melisses', 'the youngbloods', 'october fall', 'ronny j', 'the soil', 'sophie rose', 'gamma ray', 'kurupt', 'becky hill', 'phyno', 'shai', 'maverick city music', 'stephen stills', 'superheavy', 'instruction', 'dreamers', 'oasis', 'taylor ray holbrook', 'chayce beckham', 'moonbyul', 'jet', 's1mba', 'vanilla ice', 'deltron 3030', 'anthony amorim', 'mother mother', 'sniper', 'tryhardninja', 'uncle lucius', 'slava kpss (слава кпсс)', 'wisin y yandel', 'lil dusty g', 'donnie iris', 'k.flay', 'ysy a', 'jeannie ortega', 'roberta flack', 'marshmello', 'kano', 'cory marks', 'american football', 'slaine', 'soja', 'randy & the rainbows', 'pusho', 'andre nickatina', 'firefall', 'alexandra burke', 'morgan', 'citizen way', 'f(x)', 'shay', 'abra cadabra', 'capo', 'elbow', 'aespa', 'lost frequencies', 'lunchmoney lewis', 'ben rue', 'a1 x j1', 'pusher', 'the network', 'xov', 'zone 2', 'iron maiden', 'madame macabre', 'tsu surf', 'alan jackson', 'kyprios', 'dash berlin', 'emarosa', 'grits', 'cupid', "the la's", 'dreamer dream on', 'rocco deluca & the burden', 'futurebirds', 'split enz', 'x1', 'superheaven', 'chris cagle', 'leikeli47', 'vitaa', 'skeeter davis', 'addison rae', 'i-20', 'the jokerr', 'fmk', 'dani faiv', 'francesca battistelli', 'suprême ntm', 'chet faker', 'key glock', 'kizaru', 'kim hee won', 'katie holmes', 'michael jackson', 'kweku collins', 'lime cordiale', 'womack & womack', 'elmo & patsy', 'sagun', 'shannon noll', 'sofi tukker', 'sugababes', 'vera lynn', 'the real mckenzies', 'm huncho', 'lovejoy', 'arlo guthrie', 'jeff williams', 'raleigh ritchie', 'lary over', 'bob seger', 'gemini', 'jah khalib', 'manchester orchestra', 'park hye jin', 'blonde', 'wild cub', 'sharon van etten', 'jordan st. cyr', 'dommin', 'charm city devils', 'josh richards', 'teyana taylor', 'calibre 50', 'mikeschair', 'nico collins', 'jimmy dean', 'kc rebell', 'murderdolls', 'eric nam', 'yhung t.o.', 'angel taylor', 'miss benny', 'jeff lynne', 'naitivihod (найтивыход)', 'meghan patrick', 'arrdee', 'jim-e stack', 'liz huett', 'blessthefall', 'yard act', 'j wess', 'kloud', 'luke combs', 'laundry day', 'rkcb', 'brett kissel', 'death', 'friendly fires', 'raelynn', 'blues traveler', 'brynn elliott', 'swizz beatz', 'def leppard', 'jeff beck', 'illy', 'rob halford', 'apex theory', 'jana kramer', 'netsky', '102 boyz', 'party boyz', 'rock mafia', 'maxthademon', 'action action', 'darlingside', 'konfuz', 'baynk', 'rehab', 'the cadillac three', 'jefferson airplane', 'matt stell', 'ne-yo', 'jervis campbell', 'pressure 4-5', 'rbd', 'ayyan', 'ron henley', 'sonny & cher', 'the head and the heart', 'bas', 'the five satins', 'lera lynn', 'the subways', 'hornet la frappe', 'propain', 'hoodie allen', 'tammy rivera', 'the underachievers', 'estraden', 'speak low if you speak love', 'danzig', 'ahsen almaz', 'beéle', 'manizha', 'lil loaded', 'chase atlantic', 'davichi', 'vremya i steklo (время и стекло)', 'h1ghr music', 'st. paul & the broken bones', 'mike singer', 'waxahatchee', 'shiva', 'the browning', 'ray charles', 'finish ticket', 'trobi', 'omnium gatherum', 'mod sun', 'jay park', 'the von bondies', 'pj masks', 'henkie t', 'jackie wilson', 'arcade fire', 'stélouse', 'santigold', 'young sam', 'svrcina', 'the lemon pipers', 'captain chunk! chunk! no', 'now united', 'murda', 'ari hest', 'jessie j', 'musso', 'mia boyka', 'the summer set', 'wilder woods', 'innerpartysystem', 'wild child', 'lorenzo', 'jagged edge', 'wild orchid', 'cole swindell', 'azet', 'croosh', 'jimmy needham', 'morphine', 'jason mraz', 'axel rudi pell', 'mary black', 'marcos hernandez', 'slaughter to prevail', 'counterparts', 'seventh day slumber', '22gz', 'ne obliviscaris', 'james hype', 'yung miami', 'craig wayne boyd', 'sabyan gambus', 'ilira', 'joshua radin', 'sefo', 'laura welsh', "lil' corey", 'they.', 'rainbow', 'macy kate', 'the medic droid', 'trapped under ice', 'bleed from within', 'aiden grimshaw',
              'klymaxx', 'be well', 'watain', 'the donnas', 'devildriver', 'field mob', 'del shannon', 'shotta spence', 'luna', 'bachelor', 'ronnie flex', 'from autumn to ashes', 'dave dobbyn', 'swedish house mafia', 'equilibrium', 'arlo parks', 'jacquees', 'lilbootycall', 'declan j donovan', 'hollywood vampires', 'z-ro', 'czarface', 'yfn lucci', 'zhanulka', 'the temper trap', 'saxon', 'ant clemons', 'lil uzi vert', 'white 2115', 'the aces', 'bedroom', 'sugarland', 'listener', 'porter robinson', 'the wandering hearts', 'donell jones', 'peremotka (перемотка)', 'aastha gill', 'mc mm', 'judy kuhn', 'big narstie', 'pixies', 'aron', 'mr. cheeks', 'bun-b', 'anilyst', 'the tragically hip', 'syn cole', 'the corrs', 'muddy waters', 'snow ghosts', 'a skylit drive', 'jalil', 'aleesia', 'carl brave', 'jay critch', 'tiny ruins', 'sizzla', 'molly (ольга серябкина)', 'billy crawford', 'mert', 'metrickz', 'kutless', 'one chance', 'mozzik', 'imx', 'bobby vinton', 'jain', 'jackboy', 'jenna davis', 'coco jones', 'salvador sobral', 'cyhi the prynce', 'nelson', 'suede', 'akcent', 'nico & vinz', 'winds of plague', 'harris j', 'cat pierce'}
 
+
 def junkRmv(inputName):
 
-    print("----- SongNameSplit | 2.1.2 -----")
+    print("----- SongNameSplit | 2.1.3 -----")
     fname = list(inputName)
     songname = ''
     hyphc = 0
+    stc = 0
+
+    c1Bool = False
+    c2Bool = False
+
+    apC1 = fname.count("'")
+    apC2 = fname.count('"')
+
+    if apC1 == 2:
+      c1Bool = True
+
+    elif apC2 == 2:
+      c2Bool = True
 
     for i in range(len(fname)):
 
 
-        if fname[i] == '(' or fname[i] == '{' or fname[i] == '|' or fname[i] == '[':
+        if fname[i] == '(' or fname[i] == '{' or fname[i] == '[':
             break
 
         if fname[i] == '-':
             hyphc += 1
+          
+        if fname[i] == '|':
+            stc += 1
 
         if fname[i] == '-' and hyphc == 2:
             break
+
+        if fname[i] == '|' and stc == 2:
+            break
         
         songname += str(fname[i])
+
+    if c1Bool:
+      songname += "'"
+
+    elif c2Bool:
+      songname += '"'
     
     return songname
 
@@ -243,8 +269,17 @@ def namesplit(inpTitle):
 
         print("Processing...")
 
+
+
+        
+
     else:
-        raise NonStandardSongTitle
+        raise NonStandardSongTitle("This title does not look like a standard title")
+
+
+
+
+
 
     differs = {'&', 'x', 'and', ',', 'vs', 'Vs', 'VS', 'X', 'AND', '/w', '/W', 'M/V', 'm/v', ':', ';', '|', 'with', 'With', 'WITH'}
 
@@ -265,6 +300,8 @@ def namesplit(inpTitle):
       else:
         searchTerm2 = p2j
 
+    print("ID 003 : ", searchTerm1)
+    print("ID 004 : ", searchTerm2)
 
     stateSet = False
 
@@ -310,6 +347,70 @@ def namesplit(inpTitle):
                         p2Points = 0
                         stateSet =  True
                         break
+
+        if not stateSet:
+          oneTempL = list(p1j)
+          twoTempL = list(p2j)
+
+          for subT in oneTempL:
+            if subT in differs:
+              searchTerm1 = (''.join(oneTempL[oneTempL.index(subT)+1:])).lower()
+              print("ID 001 : ", searchTerm1)
+              break
+            else:
+              searchTerm1 = p1j
+
+          for subT in twoTempL:
+            if subT in differs:
+              searchTerm2 = (''.join(twoTempL[twoTempL.index(subT)+1:])).lower()
+              print("ID 002 : ", searchTerm2)
+              break
+            else:
+              searchTerm2 = p2j
+
+          for eDif in differs:
+              if eDif in list(p1j):
+                  for eachBigData in dataSet:
+                    
+                      ctrlLeft1 = str(eDif) + str(eachBigData)
+                      ctrlRight1 = str(eachBigData) + str(eDif)
+
+                      if ctrlLeft1 == p1j.strip() or ctrlRight1 == p1j.strip() or ctrlLeft1 == searchTerm1.strip() or ctrlRight1 == searchTerm1.strip():
+                          p1Points = 100
+                          p2Points = 0
+                          stateSet =  True
+                          break
+
+              elif eDif in list(p2j):
+                  for eachBigData in dataSet:
+
+                      ctrlLeft1 = str(eDif) + str(eachBigData)
+                      ctrlRight1 = str(eachBigData) + str(eDif)
+
+                      if ctrlLeft1 == p1j.strip() or ctrlRight1 == p1j.strip() or ctrlLeft1 == searchTerm2.strip() or ctrlRight1 == searchTerm2.strip():
+                          p1Points = 100
+                          p2Points = 0
+                          stateSet =  True
+                          break
+
+
+
+        if (p1j.strip()).lower() in dataSet or (searchTerm1.strip()).lower() in dataSet:
+
+          p1Points = 100
+          p2Points = 0
+          stateSet =  True
+
+          print("BLAZE Test Passed")
+
+        elif (p2j.strip()).lower() in dataSet or (searchTerm2.strip()).lower() in dataSet:
+
+          p1Points = 0
+          p2Points = 100
+          stateSet =  True
+
+          print("BLAZE Test Passed")
+            
             
 
     if not stateSet:
@@ -324,8 +425,17 @@ def namesplit(inpTitle):
           p1Points = artist_match_check(searchTerm1, 1)
           p2Points = artist_match_check(searchTerm2, 1)
 
+
+
+
       except:
-          raise InternetConnectionError
+          raise InternetConnectionError("Please make sure you have a stable internet connection")
+
+
+
+
+
+
 
       if abs(p1Points - p2Points) <= 10:
 
@@ -336,8 +446,17 @@ def namesplit(inpTitle):
             p1Points = artist_match_check(searchTerm1, 2)
             p2Points = artist_match_check(searchTerm2, 2)
 
+
+
+
         except:
-            raise InternetConnectionError
+            raise InternetConnectionError("Please make sure you have a stable internet connection")
+
+
+
+
+
+
 
       if abs(p1Points - p2Points) <= 10:
 
@@ -348,8 +467,16 @@ def namesplit(inpTitle):
             p1Points = artist_match_check(searchTerm1, 4)
             p2Points = artist_match_check(searchTerm2, 4)
 
+
+
+
         except:
-            raise InternetConnectionError
+            raise InternetConnectionError("Please make sure you have a stable internet connection")
+
+
+
+
+
 
       if abs(p1Points - p2Points) <= 10:
 
@@ -360,8 +487,57 @@ def namesplit(inpTitle):
             p1Points = artist_match_check(searchTerm1, 8)
             p2Points = artist_match_check(searchTerm2, 8)
 
+
+
         except:
-            raise InternetConnectionError
+            raise InternetConnectionError("Please make sure you have a stable internet connection")
+
+    
+
+    fcount1 = 0
+    fcount2 = 0
+
+    fp1j = ['']
+    fp2j = ['']
+
+
+    for fCheck in list(p1j):
+      if fCheck == "'":
+        fcount1 += 1
+      elif fCheck == '"':
+        fcount2 += 1
+
+
+    if fcount1 >= 2:
+      fp1j = p1j.split("'")[1::2]
+
+    elif fcount2 >= 2:
+      fp1j = p1j.split('"')[1::2]
+
+
+    fcount1 = 0
+    fcount2 = 0
+
+
+    for fCheck in list(p2j):
+      if fCheck == "'":
+        fcount1 += 1
+      elif fCheck == '"':
+        fcount2 += 1
+
+
+    if fcount1 >= 2:
+      fp2j = p2j.split("'")[1::2]
+
+    elif fcount2 >= 2:
+      fp2j = p2j.split('"')[1::2]
+
+
+    if len(list(fp1j[0])) > 2:
+      p1j = fp1j[0]
+
+    if len(list(fp2j[0])) > 2:
+      p2j = fp2j[0]
 
 
     if p1Points >= p2Points:
